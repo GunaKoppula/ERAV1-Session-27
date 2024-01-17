@@ -1,4 +1,4 @@
-# ERA-SESSION27 - Phi2 Model Finetuning with QLoRA on OpenAssistant Conversations Dataset (OASST1)
+# ERA-SESSION27
 
 🤗[**Space Link**]
 

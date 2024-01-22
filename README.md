@@ -64,5 +64,4 @@ TrainOutput(global_step=500, training_loss=1.711106170654297, metrics={'train_ru
 ![image](https://github.com/GunaKoppula/ERAV1-Session-27/assets/61241928/008fad10-4f7b-4df2-8e16-361cf4ae4776)
 
 ## Gradio UI:
-![image](https://github.com/GunaKoppula/ERAV1-Session-27/assets/61241928/3d544272-56e0-4c1a-936a-751a180f262f)
-
+![image](https://github.com/GunaKoppula/ERAV1-Session-27/assets/61241928/71796655-585b-4c48-a453-3d59b52b60c5)
